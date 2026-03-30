@@ -10,7 +10,7 @@ license = { text = "MIT" }
 dynamic = ["version"]
 
 [project.urls]
-Homepage = "https://github.com/mimirio/frappe-notification-bridge"
+Homepage = "https://github.com/chief-nerd/frappe-notification-bridge"
 
 [tool.flit.module]
 name = "frappe_notification_bridge"
