@@ -1,0 +1,7 @@
+{
+  "name": "frappe_notification_bridge",
+  "version": "0.0.1",
+  "description": "Bridge Frappe notifications to MS Teams chat.",
+  "author": "Mimirio",
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+[project]
+name = "frappe_notification_bridge"
+authors = [
+    { name = "Mimirio", email = "info@mimirio.com"}
+]
+description = "Bridge Frappe notifications to MS Teams chat."
+requires-python = ">=3.10"
+readme = "README.md"
+license = { text = "MIT" }
+dynamic = ["version"]
+
+[project.urls]
+Homepage = "https://github.com/mimirio/frappe-notification-bridge"
+
+[tool.flit.module]
+name = "frappe_notification_bridge"
+
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
